@@ -1,0 +1,4 @@
+classes= 1
+train  = /content/darknet/build/darknet/x64/data/train.txt
+names = /content/darknet/build/darknet/x64/data/obj.names
+backup =/content/darknet/build/darknet/x64/backup
